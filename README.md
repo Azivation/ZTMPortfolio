@@ -1,2 +1,3 @@
 # ZTMPortfolio
-ZTM Webdev Portfoli
+ZTM Webdev Portfolio from Udemy;
+Hosting the Index and Informational Requirements
